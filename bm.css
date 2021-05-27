@@ -1,0 +1,18 @@
+body
+{
+ background:linear-gradient(45deg,red,white,yellow);
+}
+h1
+{
+	background:radial-gradient(circle,yellow,white,red);
+	text-align:center;
+}
+s
+{
+	background-color:red;
+	text-align:justify;
+}
+table
+{
+	width:25%;
+}

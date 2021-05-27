@@ -1,0 +1,17 @@
+body
+{
+	background:linear-gradient(45deg,lightgreen,yellow,lightgreen);
+}
+h1
+{
+	background:linear-gradient(45deg,#0cefbd,#d70cef,#900cef);
+	text-align: center;
+}
+p
+{
+	background:linear-gradient(45deg,#0cefbd,#d70cef,#900cef);
+}
+table
+{
+	width: 25%;
+}

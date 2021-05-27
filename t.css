@@ -1,0 +1,19 @@
+body
+{
+	background:radial-gradient(orange);
+}
+h1
+{
+	background:linear-gradient(45deg,blue,white,blue);
+	text-align: center;
+}
+
+p
+{
+	background-color: #0ef3b9;
+	text-align: justify;
+}
+table
+{
+	width: 100%;
+}

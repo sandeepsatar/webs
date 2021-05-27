@@ -1,0 +1,18 @@
+body
+{
+	backgroung:radialgradient(ellipse,orange,white,green);
+}
+h1
+{
+	background:linear-gradient(45deg,red,white,green);
+	text-align: center;
+}
+p
+{
+	background-color: #0ef3b9;
+	text-align: justify;
+}
+table
+{
+	width:100%;
+}
